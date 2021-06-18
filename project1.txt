@@ -1,0 +1,3 @@
+a=1o
+b=20
+Printf c=a+b
