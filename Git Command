@@ -1,0 +1,58 @@
+Linux Commands for Devops
+
+The main operstions in OS 
+
+Navagation    Creating floder    Copy/Move    Delete files   installing software
+
+PWD - Present working directory
+Cd - Change directory
+cd .. - to goto host
+MAN - manual( To know about the commands) Q bact to termainal
+Clear - Clear the terminal
+echo - to print anythin656cg in terminal
+Whoami - to konw the current user
+Su/Sudo bash - to switch the root user
+SU username - to switch back to user
+sudo - normal user doesnt have permission to add or delete user, so we use sudo to add or del
+touch - to create files
+CAT - To show the content of the files
+CP - to copy the file and to store somewhere
+MV - Moves files fro one directory to another
+rm - removes files form directory
+rm -i interactive deletion 
+rm -f forcefull deletion
+rm -r - Recrusive delete the directory
+mkdir - to create a directory
+rmdir  - to remove directory
+grep - to search a particular word in txt file 
+sort - This command is to sort the txt from assending to decensing
+Chown - use to change the owner and group of file
+chmod - to modify the permission
+lsof -lists out all the open files
+id - use to find out user name and user id
+tar - use to zip a file or floder
+ls-l -list all the files
+history - to know the all the commands used in a day
+yum install<Package>  - to istall software 
+$ prompt as normal user
+# prompt as root user
+One root in linux machine
+
+------------------------------------------------------------
+How to login to remote Linux?
+
+Command to connect Remote (SSH)
+
+ssh <User-Name>@<ip-address>
+
+Command to exit 
+Exit
+
+---------------------------------------
+
+How to run a command as admin in Linux?
+
+Admin user is called root in Linux
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --------------------------------------------------------------------------------
+
+Steps to learn DevOps and Cloud
