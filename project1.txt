@@ -1,3 +1,7 @@
 a=1o
 b=20
-Printf c=a+b
+c=30
+d=40
+Printf c+a+b
+Printf a+b+c+d
+Printf ("Hellp World")
